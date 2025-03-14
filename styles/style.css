@@ -8,11 +8,11 @@
   padding: 0px 50px 0px;
 }
 
-.header_logo {  
+.header_logo {
   width: 136px;
   height: 105px;
   background-image: url(../images/logo-black.svg);
-  background-size: contain;  
+  background-size: contain;
 }
 
 .header_link-list {
@@ -20,7 +20,7 @@
   gap: 31.5px;
   font-weight: 400;
   font-size: 18px;
-  text-underline-offset: 4px; 
+  text-underline-offset: 4px;
   list-style-type: circle;
 }
 
@@ -39,7 +39,7 @@
   font-size: 18px;
   font-style: normal;
   line-height: 24px;
-  text-underline-offset: 4px;  
+  text-underline-offset: 4px;
 }
 
 .cover {
@@ -51,14 +51,14 @@
   padding: 165px 50px 50px;
   background-image: url("../images/cover.jpg");
   background-position: center;
-  background-size: cover;  
+  background-size: cover;
 }
 
 .overlay {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background-color: rgba(0, 0, 0, 0.6);   
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 h1 {
@@ -68,24 +68,24 @@ h1 {
   font-family: 'Raleway';
   font-size: 100px;
   line-height: 114.9px;
-  letter-spacing: 0.3em;      
+  letter-spacing: 0.3em;
 }
 
 .aligned-text {
   display: block;
-  margin-bottom: 20px;    
+  margin-bottom: 20px;
 }
 
 .aligned-text_center {
   display: block;
   margin-bottom: 20px;
   margin-left: 30px;
-  text-align: center;  
+  text-align: center;
 }
 
 .aligned-text_right {
   display: block;
-  text-align: right;  
+  text-align: right;
 }
 
 .cover_description {
@@ -93,9 +93,9 @@ h1 {
   display: flex;
   justify-content: space-between;
   color: rgba(255, 255, 255, 1);
-  font-family: 'Raleway';  
+  font-family: 'Raleway';
   font-size: 22px;
-  text-transform: uppercase;  
+  text-transform: uppercase;
 }
 
 .cover_description-text {
@@ -116,11 +116,11 @@ h1 {
   font-weight: 500;
   font-size: 22px;
   text-transform: uppercase;
-  background-color: transparent;   
+  background-color: transparent;
 }
 
 .lots {
-  margin: 180px 24px 0px 24px;  
+  margin: 180px 24px 0px 24px;
 }
 
 .lots__heading {
@@ -131,7 +131,7 @@ h2 {
   font-family: 'Raleway';
   font-weight: 700;
   font-size: 40px;
-  text-transform: uppercase;  
+  text-transform: uppercase;
 }
 
 .lots__card-list {
@@ -139,27 +139,27 @@ h2 {
   flex-wrap: wrap;
   justify-content: space-between;
   gap: 25px;
-  margin-bottom: 30px;  
+  margin-bottom: 30px;
   list-style-type: none;
 }
 
 .lots__card-list-item {
   width: 334px;
-  min-height: 596px;  
+  min-height: 596px;
 }
 
 .card-link {
   height: 100%;
-  text-decoration: none;  
+  text-decoration: none;
 }
 
-.card {  
+.card {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   height: 100%;
   padding: 48px 40px 48px 40px;
-  color: rgba(255, 255, 255, 1);    
+  color: rgba(255, 255, 255, 1);
 }
 
 .card__title {
@@ -168,14 +168,14 @@ h2 {
   font-size: 22px;
   line-height: 120%;
   text-decoration: underline;
-  text-transform: uppercase;  
+  text-transform: uppercase;
 }
 
 .card__text {
   font-family: 'Raleway';
   font-weight: 400;
   font-size: 20px;
-  line-height: 120%;  
+  line-height: 120%;
 }
 
 .card_type_film {
@@ -220,7 +220,7 @@ h2 {
   margin-bottom: 100px;
 }
 
-.about__column-logo{
+.about__column-logo {
   display: flex;
   justify-content: center;
   align-items: start;
@@ -236,12 +236,12 @@ h2 {
 }
 
 .about__column-text {
-  padding-top: 133px;  
+  padding-top: 133px;
 }
 
 .logo {
   height: 100%;
-  background-image: url(../images/logo-white.svg);  
+  background-image: url(../images/logo-white.svg);
 }
 
 .about__text {
@@ -249,10 +249,10 @@ h2 {
   font-family: 'Raleway';
   font-weight: 400;
   font-size: 20px;
-  line-height: 24px;  
+  line-height: 24px;
 }
 
-.about__text-section {  
+.about__text-section {
   display: flex;
   flex-direction: column;
   row-gap: 24px;
@@ -267,7 +267,7 @@ h2 {
   grid-template-columns: 1fr 1fr 1fr;
   width: 100%;
   height: 180px;
-  padding: 0px 50px 0px 50px;  
+  padding: 0px 50px 0px 50px;
 }
 
 .footer-address {
@@ -281,7 +281,7 @@ h2 {
   font-weight: 400;
   font-size: 18px;
   text-align: center;
-  list-style-type: none;  
+  list-style-type: none;
 }
 
 .footer__menu-link_active {
@@ -295,7 +295,7 @@ h2 {
   gap: 48px;
   width: 240px;
   height: 48px;
-  list-style-type: none;  
+  list-style-type: none;
 }
 
 .footer__social-list-item {
